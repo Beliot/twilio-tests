@@ -1,0 +1,25 @@
+{
+  "name": "twilio-test",
+  "version": "1.0.0",
+  "description": "A test of the twilio nodejs helper library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beliot/twilio-test.git"
+  },
+  "keywords": [
+    "twilio"
+  ],
+  "author": "beliot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beliot/twilio-test/issues"
+  },
+  "homepage": "https://github.com/beliot/twilio-test#readme",
+  "dependencies": {
+    "twilio": "^3.31.0"
+  }
+}
